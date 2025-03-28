@@ -5,4 +5,4 @@ As the name suggests, the application solves standard Sudoku puzzle in real time
 After the application starts, through video capturing, it identifies the Sudoku board, solves the puzzle and writes the solution on board itself.
 
 ## Demonstration
-![Demo GIF](https://github.com/Avnee29/Real-Time-Sudoku-Solver/Demo/example.gif)
+![Demo GIF]([https://github.com/Avnee29/Real-Time-Sudoku-Solver/Demo/example.gif])
